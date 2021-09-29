@@ -1,17 +1,6 @@
 import java.util.NoSuchElementException;
 
-/**
- * Your implementation of an ArrayList.
- *
- * @author Shinhaeng Lee
- * @version 1.0
- * @userid slee3487
- * @GTID 903741229
- *
- * Collaborators: LIST ALL COLLABORATORS YOU WORKED WITH HERE
- *
- * Resources: LIST ALL NON-COURSE RESOURCES YOU CONSULTED HERE
- */
+
 public class ArrayList<T> {
 
     /**
